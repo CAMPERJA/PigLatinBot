@@ -1,0 +1,1 @@
+in order to run this notebook, you need Pythong 3.10 or 3.11. If you don't have those installed, you might have better luck using the google collab notebook here: https://colab.research.google.com/drive/1LZAIGJu9ACJxwLjVDJGnW2QJfEG1vISV#scrollTo=xyfCp0fN47k1
